@@ -1,0 +1,137 @@
+.home-page {
+    background-color: #2656b4;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home-page .div-2 {
+    background-color: #2656b4;
+    height: 982px;
+    position: relative;
+    width: 1512px;
+  }
+  
+  .home-page .logo-instance {
+    left: 77px !important;
+    position: absolute !important;
+    top: 26px !important;
+  }
+  
+  .home-page .frame {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 156px;
+    left: 100px;
+    position: absolute;
+    top: 448px;
+  }
+  
+  .home-page .frame-2 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 156px;
+    position: relative;
+  }
+  
+  .home-page .img {
+    height: 345px;
+    object-fit: cover;
+    position: relative;
+    width: 344px;
+  }
+  
+  .home-page .image-2 {
+    height: 345px;
+    object-fit: cover;
+    position: relative;
+    width: 318px;
+  }
+  
+  .home-page .image-3 {
+    height: 345px;
+    left: 1011px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 286px;
+  }
+  
+  .home-page .finding-the-best {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 56px;
+    font-weight: 400;
+    left: 106px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 260px;
+    width: 862px;
+  }
+  
+  .home-page .span {
+    font-weight: 500;
+  }
+  
+  .home-page .text-wrapper-3 {
+    font-weight: 700;
+  }
+  
+  .home-page .login-instance {
+    left: 1109px !important;
+    position: absolute !important;
+    top: 118px !important;
+  }
+  
+  .home-page .sign-up-instance {
+    left: 1249px !important;
+    position: absolute !important;
+    top: 118px !important;
+  }
+  
+  .home-page .text-wrapper-4 {
+    color: #fb846c;
+    font-family: "Inter", Helvetica;
+    font-size: 30px;
+    font-weight: 600;
+    left: 697px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 934px;
+    white-space: nowrap;
+  }
+  
+  .home-page .component-3 {
+    align-items: center;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    left: 162px;
+    overflow: hidden;
+    padding: 20px;
+    position: absolute;
+    top: 821px;
+    width: 1205px;
+  }
+  
+  .home-page .component-2-wrapper {
+    border: 1px dashed;
+    border-color: #9747ff;
+    border-radius: 5px;
+    height: 151px;
+    left: 968px;
+    overflow: hidden;
+    position: absolute;
+    top: 217px;
+    width: 534px;
+  }
+  
+  .home-page .property-default {
+    left: 20px !important;
+    top: 20px !important;
+  }
+  
