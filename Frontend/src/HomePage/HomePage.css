@@ -1,0 +1,256 @@
+/* HomePage.css */
+
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+    background-color: #2657B5;
+}
+.HomePage {
+    position: relative;
+    background-color: #2657B5;
+  }
+  
+  .Logo {
+    width: 805px;
+    height: 180px;
+    left: 77px;
+    top: 26px;
+    position: absolute;
+  }
+  
+  .Propertyhub {
+    width: 618.14px;
+    height: 125.03px;
+    left: 227.76px;
+    top: 28.02px;
+    position: absolute;
+    color: #F0D5A8;
+    font-size: 96px;
+    font-family: Inter;
+    font-weight: 800;
+    word-wrap: break-word;
+  }
+  
+  .Image2 {
+    width: 194.38px;
+    height: 180px;
+    left: 20.62px;
+    top: 0;
+    position: absolute;
+  }
+  
+  .Line1 {
+    width: 621px;
+    height: 0;
+    left: 225px;
+    top: 155px;
+    position: absolute;
+    border: 4px black solid;
+  }
+  
+  .Frame1 {
+    left: 100px;
+    top: 448px;
+    position: absolute;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 156px;
+    display: inline-flex;
+  }
+  
+  .Frame2 {
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 156px;
+    display: flex;
+  }
+  
+  .Frame3 {
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 156px;
+    display: flex;
+  }
+  
+  .Image5 {
+    width: 344px;
+    height: 345px;
+  }
+  
+  .Image4 {
+    width: 318px;
+    height: 345px;
+  }
+  
+  .Image3 {
+    width: 285.16px;
+    height: 344.79px;
+  }
+  
+  .FindingTheBestPropertiesInForYou {
+    width: 862px;
+    height: 147px;
+    left: 106px;
+    top: 261px;
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 56px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+  }
+  
+  .FindingTheBestPropertiesInForYou span {
+    font-size: 56px;
+    font-family: Inter;
+    word-wrap: break-word;
+  }
+  
+  .Login {
+    width: 79px;
+    height: 36px;
+    padding-right: 1px;
+    left: 1109px;
+    top: 118px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+  }
+  
+  .LoginText {
+    color: white;
+    font-size: 30px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .SignUp {
+    width: 142px;
+    height: 36px;
+    left: 1249px;
+    top: 118px;
+    position: absolute;
+    background-color: #00B8F0;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+  }
+  
+  .SignUpText {
+    width: 142px;
+    transform: rotate(-1.38deg);
+    transform-origin: 0 0;
+    color: #F2F2FC;
+    font-size: 30px;
+    font-family: Inter;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  .AboutUs {
+    left: 697px;
+    top: 935px;
+    position: absolute;
+    color: #FB846C;
+    font-size: 30px;
+    font-family: Inter;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  
+  .Component1 {
+    width: 1205px;
+    padding: 20px;
+    left: 162px;
+    top: 821px;
+    position: absolute;
+    border-radius: 5px;
+    overflow: hidden;
+    justify-content: space-between;
+    align-items: center;
+    display: inline-flex;
+  }
+  
+  .Property1BuyProperty,
+  .Property1SellProperty,
+  .Property1RentProperty {
+    width: 155px;
+    height: 45px;
+    padding-bottom: 22.5px;
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+  }
+  
+  .Buy,
+  .Sell,
+  .Rent {
+    width: 107px;
+    height: 22.5px;
+    color: white;
+    font-size: 37px;
+    font-family: Inter;
+    font-weight: 500;
+    word-wrap: break-word;
+  }
+  
+  .Component2 {
+    width: 534px;
+    height: 151px;
+    left: 968px;
+    top: 217px;
+    position: absolute;
+    border-radius: 5px;
+    overflow: hidden;
+    border: 1px #9747FF dotted;
+  }
+  
+  .Property1Default {
+    left: 20px;
+    top: 20px;
+    position: absolute;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: inline-flex;
+  }
+  
+  .Component2Content {
+    width: 494px;
+    height: 122px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    background: rgba(241.83, 242.26, 252.46, 0);
+    border-radius: 20px;
+    overflow: hidden;
+    border: 2px white solid;
+    justify-content: center;
+    align-items: center;
+    gap: 31px;
+    display: flex;
+  }
+  
+  .Location {
+    color: white;
+    font-size: 49px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .Arrow2 {
+    width: 47px;
+    height: 0;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 3px #FB846C solid;
+  }
+  
